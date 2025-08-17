@@ -89,15 +89,15 @@ Educational data platform for collecting, analyzing, and generating focused insi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjil072&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](YOUR_WEBSITE_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tanjil-hossain/))
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)]([YOUR_WEBSITE_URL](https://tanjilhossain.com/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjil766@gmail.com)
 
 </div>
