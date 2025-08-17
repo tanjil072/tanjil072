@@ -1,7 +1,7 @@
 # Hi there, I'm Tanjil! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+ML+Researcher;Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;Building+AI-Powered+Solutions&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines= Software+Engineer+%7C+ML+Researcher;Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;Building+AI-Powered+Solutions&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 ## 🚀 About Me
@@ -84,8 +84,8 @@ Educational data platform for collecting, analyzing, and generating focused insi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjil072&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil072&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -105,11 +105,7 @@ Educational data platform for collecting, analyzing, and generating focused insi
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tanjil072&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<div align="center">
-  
-*"Building the future, one commit at a time"* 🚀
 
-</div>
