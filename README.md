@@ -61,6 +61,11 @@ I'm a **Software Engineer** at **MetaDesign Solutions** and **Master's student i
 
 ## 🚀 Featured Projects
 
+### 📚 Acquire Learning
+Educational data platform for collecting, analyzing, and generating focused insights for clinical and academic research.
+- **Tech**: React, TypeScript, Node.js, Express
+- **Features**: Data analytics, interactive programming interface, tracking stats or progress
+
 ### 🏏 Cricket Connections
 A comprehensive platform connecting aspiring cricketers with expert coaches for personalized training programs.
 - **Tech**: React, TypeScript, Node.js, MongoDB
@@ -76,40 +81,33 @@ Modern real estate platform featuring interactive 3D property tours and virtual 
 - **Tech**: React, Three.js, Node.js, Express
 - **Features**: 3D property models, virtual tours, property management
 
-### 📚 Acquire Learning
-Educational data platform for collecting, analyzing, and generating focused insights for clinical and academic research.
-- **Tech**: Python, Machine Learning, React, Data Visualization
-- **Features**: Data analytics, ML models, interactive dashboards
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjil072&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil072&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjil072&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](YOUR_WEBSITE_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjil766@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjil-hossain/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://tanjilhossain.com/)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tanjil072&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<div align="center">
-  
-*"Building the future, one commit at a time"* 🚀
 
+<div align="center">
+"Turning data into insights, code into reality" ✨
 </div>
