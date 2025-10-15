@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+ML+Researcher;Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;Building+AI-Powered+Solutions&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
-## 🚀 About Me
+## 🙈 About Me
 
 I'm a **Software Engineer** at **MetaDesign Solutions** and **Master's student in Computer Science** at **Bangladesh University of Engineering and Technology (BUET)**. I specialize in creating scalable web applications while researching cutting-edge AI solutions.
 
