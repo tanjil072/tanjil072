@@ -81,16 +81,15 @@ Modern real estate platform featuring interactive 3D property tours and virtual 
 - **Tech**: React, Three.js, Node.js, Express
 - **Features**: 3D property models, virtual tours, property management
 
-## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjil072&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil072&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjil072&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ## 🤝 Let's Connect
 
