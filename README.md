@@ -1,10 +1,11 @@
-# Hi there, I'm Tanjil! 👋
+# 🤖 Tanjil here — Teaching Machines to Think and Interfaces to Feel
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+ML+Researcher;Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;Building+AI-Powered+Solutions&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+ML+Researcher;Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Express.js+%7C+NestJS+%7C+MongoDB;Building+AI-Powered+Solutions&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
-## 🙈 About Me
+
+## 👨‍💻 About Me
 
 I'm a **Software Engineer** at **MetaDesign Solutions** and **Master's student in Computer Science** at **Bangladesh University of Engineering and Technology (BUET)**. I specialize in creating scalable web applications while researching cutting-edge AI solutions.
 
@@ -12,7 +13,15 @@ I'm a **Software Engineer** at **MetaDesign Solutions** and **Master's student i
 - 💻 **Development**: Full-stack web & mobile applications with modern JavaScript ecosystem
 - 🎯 **Current Goal**: Building AI-powered solutions that enhance decision-making processes
 - 🌱 **Learning**: Advanced ML/DL architectures and 3D web technologies
-- 📧 **Reach me**: tanjil766@gmail.com
+- 📧 **Reach me**:
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjil766@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjil-hossain/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://tanjilhossain.com/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dewantanjilhossain)
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -106,17 +115,6 @@ Revolutionary fashion platform with immersive 3D try-on experiences and real-tim
 Modern real estate platform featuring interactive 3D property tours and virtual walkthroughs.
 - **Tech**: React, Three.js, Node.js, Express
 - **Features**: 3D property models, virtual tours, property management
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjil-hossain/)
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://tanjilhossain.com/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dewantanjilhossain)
-
-
-</div>
 
 ---
 
