@@ -83,11 +83,22 @@ I'm a **Software Engineer L2** at **Techcare Inc.** and a **Master's student in 
 
 ## 💼 Professional Experience
 
-**Software Engineer** @ **MetaDesign Solutions** *(2022 - Present)*
-- Develop high-performance web and mobile applications using React ecosystem
-- Specialize in TypeScript, React, and React Native for scalable solutions
-- Build immersive 3D experiences with React-Three/Fiber
-- Focus on responsive design and modern development practices
+### Software Engineer L2 @ TechCare Inc.
+**May 2026 – Present**
+
+- 🚀 Building scalable web applications and full-stack software solutions.
+- ⚛️ Developing modern systems with React, TypeScript, Node.js, and related technologies.
+- 🤝 Collaborating with cross-functional teams to deliver high-quality products.
+- 📈 Driving performance, scalability, and maintainability through engineering best practices.
+
+### Software Engineer @ MetaDesign Solutions
+**Feb 2022 – Mar 2026**
+
+- ⚛️ Developed high-performance web and mobile applications using React and React Native.
+- 🔷 Built scalable, type-safe solutions with TypeScript.
+- 🎮 Created immersive 3D experiences using React Three Fiber.
+- 📱 Delivered responsive and accessible user experiences across platforms.
+- 🛠️ Focused on performance optimization, maintainable architecture, and modern development workflows.
 
 ## 🎓 Education
 
