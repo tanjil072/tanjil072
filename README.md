@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** at **MetaDesign Solutions** and **Master's student in Computer Science** at **Bangladesh University of Engineering and Technology (BUET)**. I specialize in creating scalable web applications while researching cutting-edge AI solutions.
+I'm a **Software Engineer L2** at **Techcare Inc.** and a **Master's student in Computer Science** at **Bangladesh University of Engineering and Technology (BUET)**. Previously, I worked at **MetaDesign Solutions**. I specialize in creating scalable web applications while researching cutting-edge AI solutions.
 
 - 🔬 **Research Focus**: Machine Learning, Deep Learning, NLP, and Spatio-temporal Data Analysis
 - 💻 **Development**: Full-stack web & mobile applications with modern JavaScript ecosystem
